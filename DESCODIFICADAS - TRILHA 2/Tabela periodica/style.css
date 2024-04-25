@@ -1,0 +1,72 @@
+
+h1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    font-weight: bolder;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 17px;
+    margin-bottom: 5%;
+    border-collapse: separate;
+    border-spacing: 8px;
+    color:white;
+}
+
+td, tr {
+    border: 1px;
+    border-radius: 10%;
+    padding: 15px;
+}
+
+.number {
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+.laranja {
+    background-color: rgb(255, 123, 0);
+}
+
+.amarelo {
+    background-color: rgb(255, 196, 0);
+}
+
+.roxo {
+    background-color: blueviolet;
+}
+
+.verde{
+    background-color: green;
+}
+
+.azul {
+    background-color: rgb(0, 195, 255);
+}
+
+.azul_escuro {
+    background-color: blue;
+}   
+
+.rosa {
+    background-color: pink;
+    
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.rubi {
+    background-color: #861a22;
+}
+
+sup{
+    text-align: right;
+}
